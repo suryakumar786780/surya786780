@@ -11,7 +11,7 @@
 
 <!--  📄 Know about my experiences [https://www.canva.com/design/DAExhHDyvgA/bokXxxpQMZWc0OK0kfHjhQ/view?utm_content=DAExhHDyvgA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink](https://www.canva.com/design/DAExhHDyvgA/bokXxxpQMZWc0OK0kfHjhQ/view?utm_content=DAExhHDyvgA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink) -->
 
-### Blogs posts
+<!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
@@ -30,7 +30,7 @@
 <p><a href="https://www.buymeacoffee.com/surya786780"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sahad0" /></a><a href="https://ko-fi.com/sahad0"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="sahad0" /></a></p> -->
 <br><br>
 
-### Badges
+<!-- ### Badges -->
 
 <!-- <b>My GitHub Stats</b>
 
