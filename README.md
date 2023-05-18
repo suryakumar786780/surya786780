@@ -44,7 +44,7 @@
 
 <b>Top Repositories</b>
 
-<div width="50%" align="left"><a href="https://github.com/surya786780/bookmyshowReact" align="left">Book my show clone</a></div><br />
-<div width="50%" align="left"><a href="https://github.com/surya786780/Test-chimp" align="left">Book my show clone</a></div><br />
-<div width="50%" align="left"><a href="https://github.com/surya786780/Admin-Dashboard" align="left">Book my show clone</a></div><br />
+<div width="50%" align="left"><a href="https://github.com/surya786780/bookmyshowReact" align="left">Book my show clone using React JS</a></div><br />
+<div width="50%" align="left"><a href="https://github.com/surya786780/Test-chimp" align="left">TestGorilla clone using Vite and Material UI</a></div><br />
+<div width="50%" align="left"><a href="https://github.com/surya786780/Admin-Dashboard" align="left">Admin Dashboard using Bootstrap 5</a></div><br />
 
