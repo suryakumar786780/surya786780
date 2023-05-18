@@ -9,7 +9,7 @@
 
  📫 How to reach me **surya786780@gmail.com**
 
- 📄 Know about my experiences [https://www.canva.com/design/DAExhHDyvgA/bokXxxpQMZWc0OK0kfHjhQ/view?utm_content=DAExhHDyvgA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink](https://www.canva.com/design/DAExhHDyvgA/bokXxxpQMZWc0OK0kfHjhQ/view?utm_content=DAExhHDyvgA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+ 📄 Know about my experiences <a href="https://drive.google.com/file/d/1xEuZma9pzdoXiSNc7OL2PrrNY6kM_bPf/view?usp=sharing"> Resume </a>
 
 <!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
@@ -44,7 +44,7 @@
 
 <b>Top Repositories</b>
 
-<div width="50%" align="left"><a href="https://github.com/surya786780/bookmyshowReact" align="left">Book my show clone</a></div><br /><br /><br /><br /><br /><br /><br />
-<div width="50%" align="left"><a href="https://github.com/surya786780/Test-chimp" align="left">Book my show clone</a></div><br /><br /><br /><br /><br /><br /><br />
-<div width="50%" align="left"><a href="https://github.com/surya786780/Admin-Dashboard" align="left">Book my show clone</a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="50%" align="left"><a href="https://github.com/surya786780/bookmyshowReact" align="left">Book my show clone</a></div><br />
+<div width="50%" align="left"><a href="https://github.com/surya786780/Test-chimp" align="left">Book my show clone</a></div><br />
+<div width="50%" align="left"><a href="https://github.com/surya786780/Admin-Dashboard" align="left">Book my show clone</a></div><br />
 
