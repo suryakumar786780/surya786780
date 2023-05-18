@@ -44,5 +44,7 @@
 
 <b>Top Repositories</b>
 
-<div width="50%" align="center"><a href="https://github.com/surya786780/bookmyshowReact" align="left">Book my show clone</a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="50%" align="left"><a href="https://github.com/surya786780/bookmyshowReact" align="left">Book my show clone</a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="50%" align="left"><a href="https://github.com/surya786780/Test-chimp" align="left">Book my show clone</a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="50%" align="left"><a href="https://github.com/surya786780/Admin-Dashboard" align="left">Book my show clone</a></div><br /><br /><br /><br /><br /><br /><br />
 
