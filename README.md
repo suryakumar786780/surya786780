@@ -1,5 +1,5 @@
-<h1 align="center">Surya</h1>
-<h3 align="center">React Dev</h3>
+<h1 align="center">Suryakumar</h1>
+<h3 align="center">Full Stack Dev</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahad0&label=Profile%20views&color=0e75b6&style=flat" alt="sahad0" /> </p> -->
 
