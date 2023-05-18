@@ -3,7 +3,7 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahad0&label=Profile%20views&color=0e75b6&style=flat" alt="sahad0" /> </p> -->
 
- 👯 I’m looking to collaborate on **Web Development Projects**
+<!--  👯 I’m looking to collaborate on **Web Development Projects** -->
 
 <!--  👨‍💻 All of my projects are available at [https://portfolio-sahad0.vercel.app/](https://portfolio-sahad0.vercel.app/) -->
 
