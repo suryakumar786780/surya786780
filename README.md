@@ -9,7 +9,7 @@
 
  📫 How to reach me **surya786780@gmail.com**
 
-<!--  📄 Know about my experiences [https://www.canva.com/design/DAExhHDyvgA/bokXxxpQMZWc0OK0kfHjhQ/view?utm_content=DAExhHDyvgA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink](https://www.canva.com/design/DAExhHDyvgA/bokXxxpQMZWc0OK0kfHjhQ/view?utm_content=DAExhHDyvgA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink) -->
+ 📄 Know about my experiences [https://www.canva.com/design/DAExhHDyvgA/bokXxxpQMZWc0OK0kfHjhQ/view?utm_content=DAExhHDyvgA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink](https://www.canva.com/design/DAExhHDyvgA/bokXxxpQMZWc0OK0kfHjhQ/view?utm_content=DAExhHDyvgA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 <!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
