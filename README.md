@@ -9,7 +9,7 @@
 
  📫 How to reach me **surya786780@gmail.com**
 
- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1xEuZma9pzdoXiSNc7OL2PrrNY6kM_bPf/view?usp=sharing"> Resume </a>
+ 📄 Know about my experiences <a href="https://drive.google.com/drive/u/0/my-drive"> Resume </a>
 
 <!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
