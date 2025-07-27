@@ -9,7 +9,7 @@
 
  📫 How to reach me **surya786780@gmail.com**
 
- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1LTVai2lMffJXLusxbLKU9rCjzJxhZ8IQ/view?usp=sharing" target="_blank"> Resume </a>
+ <!--📄 Know about my experiences <a href="https://drive.google.com/file/d/1LTVai2lMffJXLusxbLKU9rCjzJxhZ8IQ/view?usp=sharing" target="_blank"> Resume </a> -->
 
 <!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
@@ -44,7 +44,7 @@
 
 <b>Top Repositories</b>
 
-<div width="50%" align="left"><a target="_blank" href="https://surya786780.github.io/Portfolio/" align="left">Portfolio Site</a></div><br />
+<!-- <div width="50%" align="left"><a target="_blank" href="https://surya786780.github.io/Portfolio/" align="left">Portfolio Site</a></div><br /> -->
 <div width="50%" align="left"><a target="_blank" href="https://github.com/surya786780/JAVA" align="left">JAVA Programs</a></div><br />
 <div width="50%" align="left"><a target="_blank" href="https://github.com/surya786780/bookmyshowReact" align="left">Book my show clone using React JS</a></div><br />
 <div width="50%" align="left"><a target="_blank" href="https://github.com/surya786780/Test-chimp" align="left">TestGorilla clone using Vite and Material UI</a></div><br />
